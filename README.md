@@ -14,7 +14,7 @@ SQLite
 AIML
 Python 2.7 or later
 Installation
-Clone the repository: git clone https://github.com/karthiktelkar/student-information-chatbot.git
+Clone the repository: git clone https://github.com/karthiktelkar/Student-Information-Chat-Bot.git
 Navigate to the project directory: cd student-information-chatbot
 Run the chatbot: python chatbot.py
 Usage
