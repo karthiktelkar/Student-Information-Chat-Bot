@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+   <category>
+      <pattern>NOTICE</pattern>
+    <template>
+    <random>
+    <li>All smartphones have been banned in the college campus upon finding a smartphone 500rs fine will be imposed,
+     14th anual day ,
+    4th auitions,
+    7th IETE Exbition </li>
+    </random>
+    </template>
+    </category>
+    <category>
+          <pattern>ADMISSION</pattern>
+        <template>
+        <random>
+        <li>Click On this Link To Go To College Website http://www.dsdnp502.com</li>
+        </random>
+        </template>
+        </category>
+
+</aiml>

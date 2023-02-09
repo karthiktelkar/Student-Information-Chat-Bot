@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+
+	<category>
+      <pattern>UNDERTAKING DEAN ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the undertaking by College Admissions : http://dsdnp502.ac.in</li>
+			<li>Please goto this link to view the undertaking by College Admissions : http://dsdnp502.ac.in</li>
+			<li>Have a look over here to view the undertaking by College Admissions : http://dsdnp502.ac.in</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>COLLEGE ADMISSIONS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of College Admissions : http://dsdnp502.ac.in</li>
+			<li>Please goto this link to view the details of College Admissions : http://dsdnp502.ac.in</li>
+			<li>Have a look over here to view the details of College Admissions : http://dsdnp502.ac.in</li>
+		</random>
+	  </template>
+    </category>
+</aiml>

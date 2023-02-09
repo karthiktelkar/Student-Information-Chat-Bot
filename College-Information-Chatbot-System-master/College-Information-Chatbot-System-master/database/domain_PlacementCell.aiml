@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+	<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR</pattern>
+      <template>
+		<random>
+			<li>Adobe offered a package of 20 LPA last year</li>
+			<li>The highest package of 20 LPA was offered by Adobe last year</li>
+			<li>Maximum package of last year was 20 LPA which was offered by Adobe</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+     </aiml>
+	
+	

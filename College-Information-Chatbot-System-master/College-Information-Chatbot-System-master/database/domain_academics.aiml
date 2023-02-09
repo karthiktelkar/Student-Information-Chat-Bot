@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+<category>
+		<pattern>RESULT LINK</pattern>
+		<template>
+			<random>
+				<li>Please goto this link : http://Btelinx.in</li>
+		    </random>
+	  </template>
+	</category>
+	<category>
+    		<pattern>SYLLABUS</pattern>
+    		<template>
+    			<random>
+    				<li>Please goto this link : http://dte.kar.nic.in</li>
+    		    </random>
+    	  </template>
+    	</category>
+    		<category>
+            		<pattern>SYLLABUS CE</pattern>
+            		<template>
+            			<random>
+            				<li>Please goto this link : http://dte.kar.nic.in</li>
+            		    </random>
+            	  </template>
+            	</category>
+            		<category>
+                    		<pattern>SYLLABUS CSE</pattern>
+                    		<template>
+                    			<random>
+                    				<li>Please goto this link : http://dte.kar.nic.in</li>
+                    		    </random>
+                    	  </template>
+                    	</category>
+                    		<category>
+                            		<pattern>SYLLABUS ME</pattern>
+                            		<template>
+                            			<random>
+                            				<li>Please goto this link : http://dte.kar.nic.in</li>
+                            		    </random>
+                            	  </template>
+                            	</category>
+                            		<category>
+                                    		<pattern>SYLLABUS EEE</pattern>
+                                    		<template>
+                                    			<random>
+                                    				<li>Please goto this link : http://dte.kar.nic.in</li>
+                                    		    </random>
+                                    	  </template>
+                                    	</category>
+                                    		<category>
+                                            		<pattern>SYLLABUS EC</pattern>
+                                            		<template>
+                                            			<random>
+                                            				<li>Please goto this link : http://dte.kar.nic.in</li>
+                                            		    </random>
+                                            	  </template>
+                                            	</category>
+</aiml>

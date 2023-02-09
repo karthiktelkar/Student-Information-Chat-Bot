@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	     
+	<category>
+      <pattern>PRINCIPAL</pattern>
+      <template>
+		<random>
+			<li> Somashekar C Ramachandra is the Principal of our college</li>
+		</random>
+	  </template>
+    </category>
+    <category>
+      <pattern>HOD OF CSE</pattern>
+	  <template> 
+		<random>
+			<li>Radika S K is head of the CS Department</li>
+        </random>			
+	  </template>
+	</category>
+	<category>
+      <pattern>HOD OF ECE</pattern>
+	  <template>
+		<random>
+			<li>Chidambaram  is head of the EC Department</li>
+        </random>
+	  </template>
+	</category>
+	<category>
+      <pattern>HOD OF EEE</pattern>
+	  <template>
+		<random>
+			<li>Ajay is head of the EE Department</li>
+        </random>
+	  </template>
+	</category>
+	<category>
+      <pattern>HOD OF CIVIL</pattern>
+	  <template>
+		<random>
+			<li>Pavan is head of the CIVIL Department</li>
+        </random>
+	  </template>
+	</category>
+	<category>
+      <pattern>HOD OF ME</pattern>
+	  <template>
+		<random>
+			<li>Naveen is head of the ME Department</li>
+        </random>
+	  </template>
+	</category>
+	<category>
+          <pattern>HOD OF SCIENCE</pattern>
+    	  <template>
+    		<random>
+    			<li>Pushalatha T is head of the Science Department</li>
+            </random>
+    	  </template>
+    	</category>
+	<category>
+      <pattern>LECTURERS OF CSE</pattern>
+      <template>
+        <random>
+		  <li>Radhika SK, Advi B V, Kavya S, Vidya, Sumalatha K R</li>
+		</random>
+	  </template>
+    </category>
+    <category>
+    <pattern>LECTURERS OF ECE</pattern>
+          <template>
+            <random>
+    		  <li>Chidambar, Navyashree S S, Gangambika D B, Susma U K, Hema H P, Chitra G R, Nagaraj S M, Mahalakshmi T R</li>
+    		</random>
+    	  </template>
+        </category>
+         <category>
+            <pattern>LECTURERS OF EEE</pattern>
+                  <template>
+                    <random>
+            		  <li>Ajay,Ranjith Kumar,Prabhudev</li>
+            		</random>
+            	  </template>
+                </category>
+           <category>
+              <pattern>LECTURERS OF ME</pattern>
+                    <template>
+                      <random>
+              		  <li>Naveen M R, Bhagyalakshmi K R, Nikhil N N, Sukhanth B P, Ashwal J Aroza</li>
+              		</random>
+              	  </template>
+                  </category>
+            <category>
+               <pattern>LECTURERS OF CE</pattern>
+                     <template>
+                       <random>
+               		  <li>Pavan A, Dinash Kumar B, Toponar Bhaskar M S, Sageetha T S,Shipla Rani P S</li>
+               		</random>
+               	  </template>
+                   </category>
+            <category>
+                <pattern>LECTURERS OF SCIENCE</pattern>
+                                 <template>
+                                   <random>
+                           		  <li>Pushpalatha T,Swhetha D,Divyashree P</li>
+                           		</random>
+                           	  </template>
+                    </category>
+
+	<category>
+		<pattern>RESULT LINK</pattern>
+		<template>
+			<random>
+				<li>Please goto this link : http://Btelinx.in</li>
+		    </random>
+	  </template>
+	</category>
+	<category>
+    		<pattern>HELP</pattern>
+    		<template>
+    			<random>
+    				<li>Type: login,
+    				    Enter:  username and password,
+    				    To see Result enter:  spga,cgpa,all sem sgpa,result link.
+    				    To get aadmission details enter : admission
+    				    To get lecturers of dept enter: lecturers of (branch)
+    				    To chat with bot naturally: enter/ask anything
+
+    				</li>
+    		    </random>
+    	  </template>
+    	</category>
+
+</aiml>
+	
+		
